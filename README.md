@@ -1,4 +1,4 @@
-
+## It ia a website made with REACT which shows the statistics of various countries impacted from CORONA VIRUS. It has a WORLD MAP which displays the various stats of the places. It also has a graph which displays the current data with the previous data upto 120 days.
 ## Available Scripts
 
 In the project directory, you can run:
