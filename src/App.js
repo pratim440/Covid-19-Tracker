@@ -123,7 +123,7 @@ const App = () => {
         />
       </div>
       <Card className="app__right">
-        <CardContent>
+        <CardContent className="table_container">
           <div className="app__information">
             <h3>Live Cases by Country</h3>
             <Table countries={tableData} />
